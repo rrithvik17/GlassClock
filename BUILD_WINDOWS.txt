@@ -1,0 +1,1 @@
+Requires .NET 8 SDK for Windows. Run Build-GlassClock.bat from this folder.
